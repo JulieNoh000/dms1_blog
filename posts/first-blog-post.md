@@ -9,7 +9,7 @@ allow_math: true
 # A disembodied hands of a great ape
 
 ![hands](hands.png)
-<img src="image.png" width="200" height="100">
+<img src="hands.png" width="100" height="200">
 
 **I found it as an answer for a disembodied hands of a great ape. The moment I read it, luckily, I remember that I saw some strange hands on the way to the class today.**
 
