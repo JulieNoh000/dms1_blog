@@ -10,7 +10,7 @@ allow_math: true
 
 ![hands](hands.png)
 
-^ images are written like this: `![description](file_path/file_name.png)`
+
 
 ## This is h2
 
