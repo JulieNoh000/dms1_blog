@@ -24,21 +24,6 @@ allow_math: true
 
 
 
-**This is bold.**
-
-Hyperlinks can be written like this: `[text](https://URL)`
-
-You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
-
-## Maths:
-
-... which can be written inline, like this: $\{ x, y, z \} \in \N$
-
-... or block, like this:
-
-$$ x^2 + y^2 = z^2 $$
-
-Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for more information about writing maths.
 
 ## Embedding video:
 
@@ -57,6 +42,7 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 ## Embedding p5 sketches:
 
 <iframe id="falling_falling" src="https://editor.p5js.org/capogreco/full/Fkg05m7aA"></iframe>
+![falling](https://editor.p5js.org/capogreco/full/Fkg05m7aA)
 
 <script type="module">
 
