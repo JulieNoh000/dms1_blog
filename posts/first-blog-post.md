@@ -1,5 +1,5 @@
 ---
-title: This is a blog post!
+title: This is Julie's blog post!
 published_at: 2024-07-22
 snippet: An example of a blog post.
 disable_html_sanitization: true
