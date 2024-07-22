@@ -12,7 +12,7 @@ allow_math: true
 
 **I found it as an answer for a disembodied hands of a great ape. The moment I read it, luckily, I remember that I saw some strange hands on the way to the class today.**
 
-*I was located in front of the building 6.*
+*It was located in front of the building 6.*
 
 # A golden globe atop a tower of eights
 
