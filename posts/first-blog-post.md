@@ -1,5 +1,5 @@
 ---
-title: This is Julie's blog post!
+title: Scavanger Hunt
 published_at: 2024-07-22
 snippet: An example of a blog post.
 disable_html_sanitization: true
