@@ -18,7 +18,7 @@ allow_math: true
 
 ![golden](golden.png)
 
-**After I found the previous one, my team mates and I had no clue about the answers to the remaining hints. So I suggested that we should just walk around the answer zone. When we reached triangle-shaped area next to the buikding 13, I saw a golden sphere on top of a long tower. And I saw three eights at the top of the tower, I was sure that this was the answer.**
+**After I found the previous one, my team mates and I had no clue about the answers to the remaining hints. So I suggested that we should just walk around the answer zone. When we reached triangle-shaped area next to the building 13, I saw a golden sphere on top of a long tower. And seeing three eights at the top of the tower, I was sure that this was the answer.**
 
 **
 
