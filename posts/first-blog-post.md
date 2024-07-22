@@ -10,7 +10,7 @@ allow_math: true
 
 ![hands](hands.png)
 
-I found it as an answer for a disembodied hands of a great ape. The moment I read it, luckily, I remember that I saw some strange hands on the way to the class today. 
+**I found it as an answer for a disembodied hands of a great ape. The moment I read it, luckily, I remember that I saw some strange hands on the way to the class today. .**
 
 ## This is h2
 
