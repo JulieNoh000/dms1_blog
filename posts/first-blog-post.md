@@ -29,4 +29,4 @@ allow_math: true
 
 
 
-:joy:
+<img src="image.png" width="200" height="100">
