@@ -1,7 +1,7 @@
 ---
 title: Scavanger Hunt
 published_at: 2024-07-22
-snippet: An example of a blog post.
+snippet: Scavanger Hunt activity during the class.
 disable_html_sanitization: true
 allow_math: true
 ---
