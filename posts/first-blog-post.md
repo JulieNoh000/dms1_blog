@@ -6,9 +6,9 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+# A disembodied hands of a great ape
 
-![a drippy lemon](logo.svg)
+![hands](hands.png)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
