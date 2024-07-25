@@ -13,9 +13,9 @@ allow_math: true
 **This dining table is an important space for me because I have almost every meal here. Especially, the most relaxing time for me is sitting here watching Netflix with some yummy snacks. The yellow light is essential as well, as it gives me a cozy vibe.**
 
 
-
-
-
+<br>
+<br>
+<br>
 
 
 😊
