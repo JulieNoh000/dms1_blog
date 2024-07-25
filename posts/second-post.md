@@ -9,7 +9,7 @@ allow_math: true
 # A disembodied hands of a great ape
 
 
-<img src="hands.png" width="400" height="800">
+[![Thumnail](/assets/images/thumnail.jpg "Important Space")](https://drive.google.com/file/d/1F1RqhwSOiU6tp8DDwAwhZ8NExoXsadqt/view?usp=sharing)
 
 **I found it as an answer for a disembodied hands of a great ape. The moment I read it, luckily, I remember that I saw some strange hands on the way to the class today.**
 
