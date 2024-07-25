@@ -1,7 +1,7 @@
 ---
-title: Scavanger Hunt
-published_at: 2024-07-22
-snippet: Scavanger Hunt activity during the class.
+title: Important space
+published_at: 2024-07-25
+snippet: A physical space that is important to me.
 disable_html_sanitization: true
 allow_math: true
 ---
