@@ -9,7 +9,7 @@ allow_math: true
 <a href="https://julienoh000-dms1-blog-83.deno.dev/">
   <span style="font-size: 30px;">⬅️</span>
 </a> 
-<span style="font-size: 30px;">Main</span>
+<a href="https://julienoh000-dms1-blog-83.deno.dev/" style="text-decoration: none; color: black;"><span style="font-size: 30px;">Main</span></a>
 
 
 # A disembodied hands of a great ape
