@@ -5,12 +5,11 @@ snippet: Scavanger Hunt activity during the class.
 disable_html_sanitization: true
 allow_math: true
 ---
-<a href="https://julienoh000-dms1-blog-83.deno.dev/"><span style="font-size: 30px;">⬅️ 
-*Main*
+
 <a href="https://julienoh000-dms1-blog-83.deno.dev/">
   <span style="font-size: 30px;">⬅️</span>
 </a> 
-<span>Main</span>
+<span style="font-size: 30px;">Main</span>
 
 
 # A disembodied hands of a great ape
