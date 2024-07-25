@@ -29,4 +29,4 @@ allow_math: true
 <br>
 
 
-😊
+<span style="font-size: 50px;">😊</span>
