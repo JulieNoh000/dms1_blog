@@ -17,6 +17,5 @@ allow_math: true
 
 
 
-<p>                                                                              </p>
 
 😊
