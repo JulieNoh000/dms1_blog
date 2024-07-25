@@ -1,3 +1,4 @@
+<a href="https://julienoh000-dms1-blog-83.deno.dev/"><span style="font-size: 30px;">⬅️
 ---
 title: Scavanger Hunt
 published_at: 2024-07-22
