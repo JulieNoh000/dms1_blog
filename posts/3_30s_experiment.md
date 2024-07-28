@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 <a href="https://julienoh000-dms1-blog-83.deno.dev/" style="text-decoration: none; color: black;"><span style="font-size: 30px;">🔙</span></a>
-#30 seconds experiment video
+# 30 seconds experiment video
 
 Link to the [Vimeo](https://vimeo.com/991163771?share=copy).
 
