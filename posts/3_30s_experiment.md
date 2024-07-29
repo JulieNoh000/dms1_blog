@@ -8,7 +8,6 @@ allow_math: true
 <a href="https://julienoh000-dms1-blog-83.deno.dev/" style="text-decoration: none; color: black;"><span style="font-size: 30px;">🔙</span></a>
 # 30 seconds experiment video
 
-Link to the [Vimeo](https://vimeo.com/991163771?share=copy).
 <iframe src="https://player.vimeo.com/video/991163771?h=fde95b5b38" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/991163771">Julie</a> from <a href="https://vimeo.com/user223550097">Julie Noh</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
