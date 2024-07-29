@@ -9,6 +9,8 @@ allow_math: true
 # 30 seconds experiment video
 
 Link to the [Vimeo](https://vimeo.com/991163771?share=copy).
+<iframe src="https://player.vimeo.com/video/991163771?h=fde95b5b38" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/991163771">Julie</a> from <a href="https://vimeo.com/user223550097">Julie Noh</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **I explored the cut editing feature, speed adjustment, volume control, transition effects, audio transitions, and adding background music in Premiere Pro using the videos I filmed and those filmed by my teammates. As a person using Premiere Pro for the first time, I feel proud of this result.**
 
