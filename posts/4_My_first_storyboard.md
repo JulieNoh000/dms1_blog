@@ -10,7 +10,7 @@ allow_math: true
 <a href="https://julienoh000-dms1-blog-83.deno.dev/" style="text-decoration: none; color: black;"><span style="font-size: 30px;">🔙</span></a>
 
 
-#Class task
+# Class task
 
 
 <img src="class task.png" width="400" height="800">
