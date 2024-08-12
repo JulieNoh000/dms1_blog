@@ -13,7 +13,7 @@ allow_math: true
 # Black Square Activity
 
 
-<img src="blacksquares.png" height="1000">
+<img src="blacksquares.png" width="800" height="1000">
 
 **I learned how to add or delete artboards from the video tutorials, which was new to me and something I found very useful. The technique I used most frequently was to duplicate shapes with the option key, which helped me efficiently create multiple squares for my design.**
 
