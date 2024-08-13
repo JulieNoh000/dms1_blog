@@ -1,7 +1,7 @@
 ---
 title: Plan for the Assignment 2
 published_at: 2024-08-13
-snippet: Mind map and the target audience and platform
+snippet: Mind map, the target audience and platform
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -15,7 +15,7 @@ allow_math: true
 
 <img src="mindmap.jpg" width="800" height="1000">
 
-**I learned how to add or delete artboards from the video tutorials, which was new to me and something I found very useful. The technique I used most frequently was to duplicate shapes with the option key, which helped me efficiently create multiple squares for my design.**
+**I chose the word 'climate' because it is a topic that significantly impacts human life. When I think of 'climate,' I think of the overall climate that can affect a country's culture and people. Secondly, climate change, which is a major concern in current society, and the last thing is weather, which influences people's daily lives. Among these, I chose weather as the topic because I thought responsive icons could be most useful for describing daily weather.**
 
 <br>
 
