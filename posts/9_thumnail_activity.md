@@ -13,8 +13,8 @@ allow_math: true
 # Sketches
 
 
-<img src="11.JPEG" width="800" height="1000">
-<img src="22.JPEG" width="800" height="1000">
+<img src="11.JPEG" width="600" height="600">
+<img src="22.JPEG" width="600" height="600">
 
 **I sketched icons that could be used on a shoe brand's website. I think the sketches of the flat shoe and western boot best represent the appearance of the actual shoes.**
 
