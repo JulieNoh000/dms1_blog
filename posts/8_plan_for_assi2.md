@@ -13,15 +13,15 @@ allow_math: true
 # Mind map
 
 
-<img src="mindmap.jpg" width="800" height="1000">
+<img src="mm.jpg" width="800" height="1000">
 
-**I chose the word 'climate' because it is a topic that significantly impacts human life. When I think of 'climate,' I think of the overall climate that can affect a country's culture and people. Secondly, climate change, which is a major concern in current society, and the last thing is weather, which influences people's daily lives. Among these, I chose weather as the topic because I thought responsive icons could be most useful for describing daily weather.**
+**I chose the word 'climate' because it is a topic that significantly impacts human life. When I think of 'climate,' I think of the overall climate that can affect a country's culture and people. Secondly, climate change, which is a major concern in current society, and the last thing is weather, which influences people's daily lives. Among these, I chose climate change as the topic because I thought responsive icons could be helpful in explaining various ways to deal with climate change.**
 
 <br>
 
 # Target audience and platform
 
-**My icons are for a mobile weather app and a PC weather website. The app is available for iPhone and Android phones. The website can be accessed on a PC. These responsive icons will be used for daily weather displays, especially for showing changes in weather throughout the day. The target audience is users who want to see the changes in weather throughout the day in visual graphics.**
+**My icons will be used on a website that provides information about climate change. The website is accessible on both PC and mobile devices. My icons are designed to help users understand information related to environmental protection and sustainable energy.**
 
 <br>
 <br>
