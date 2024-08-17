@@ -1,7 +1,7 @@
 ---
 title: Thumnail Sketch Activity
 published_at: 2024-08-17
-snippet: Thumbnail Sketches Practice in class
+snippet: Thumbnail Sketches Practice in week 4 class
 disable_html_sanitization: true
 allow_math: true
 ---
