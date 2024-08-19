@@ -16,7 +16,7 @@ allow_math: true
 <img src="ggg.png" width="500" height="800">
 <img src="eee.png" width="800" height="500">
 <img src="shape.png" width="700" height="500">
-<img src="pen.png" width="800" height="400">
+<img src="pen.png" width="700" height="400">
 
 <br>
 <br>
