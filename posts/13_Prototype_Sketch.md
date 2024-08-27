@@ -16,7 +16,7 @@ allow_math: true
 <img src="pss.png" width="800" height="600">
 <img src="ps.png" width="800" height="600">
 
-**These are the sketches with the final design and colors of the icon. It will make it easier to create the final icons in Adobe Illustrator. The icon design has been slightly modified to clearly convey their messages, and the color combination is based on the choices which was made during the previous color variation activity.**
+**These are the sketches with the final design and colors of the icon. I drew these to make it easier to create the final icons in Adobe Illustrator. The icon design has been slightly modified to clearly convey their messages, and the color combination is based on the choice I made during the previous color variation activity.**
 
 <br>
 <br>
