@@ -1,7 +1,7 @@
 ---
-title: Colour variations for Icons
+title: Final Icons
 published_at: 2024-08-27
-snippet: one monochromatic, one analogous, one complementary (or split complementary)
+snippet: Final icons made in Adobe Illustrator.
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -10,12 +10,12 @@ allow_math: true
 <a href="https://julienoh000-dms1-blog-83.deno.dev/" style="text-decoration: none; color: black;"><span style="font-size: 30px;">🔙</span></a>
 
 
-# Outcomes
+# Final results
 
 
-<img src="w5hw.png" width="800" height="800">
+<img src="fi.png" width="800" height="800">
 
-**I am going to use an analogous color scheme, specifically a combination of green, yellow, and blue, because I believe these colors best represent my theme. Green, yellow, and blue symbolize elements of nature such as plants, the sun, and the sea. Therefore, I decided to use this combination as the main color palette for my icons.**
+**These are the icons with final designs and colors that I created using Adobe Illustrator. During the process of illustrating the sketches into Adobe Illustrator with the Pen Tool, I made several adjustments to refine the details of the icons, such as line thickness and shapes, to make them look clearly. Since it was my first time drawing icons in Illustrator, I faced challenges with drawing curves and drawing small details with the Pen Tool. However, through repeated practice and adjusting line thickness, I was able to improve my skills. I'm satisfied with the results, as the icons turned out clean and intuitive.**
 
 <br>
 <br>
