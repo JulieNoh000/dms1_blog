@@ -13,7 +13,7 @@ allow_math: true
 # Outcomes
 
 
-<img src="w5hw.png" width="500" height="800">
+<img src="w5hw.png" width="800" height="800">
 
 **I am going to use an analogous color scheme, specifically a combination of green, yellow, and blue, because I believe these colors best represent my theme. Green, yellow, and blue symbolize elements of nature such as plants, the sun, and the sea. Therefore, I decided to use this combination ms the main color palette for my icons.**
 
