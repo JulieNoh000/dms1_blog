@@ -15,7 +15,7 @@ allow_math: true
 
 <img src="fi.png" width="800" height="800">
 
-**These are the icons with final designs and colors that I created using Adobe Illustrator. During the process of drawing the icons in Adobe Illustrator with the Pen Tool, I made several adjustments to refine the details of the icons, such as line thickness and shapes, to make them look clearly. Since it was my first time drawing icons in Illustrator, I faced challenges with drawing curves and drawing small details with the Pen Tool. However, through repeated practice and adjusting line thickness, I was able to improve my skills. I'm satisfied with the results, as the icons turned out clean and intuitive.**
+**These are the icons with final designs and colors that I created using Adobe Illustrator. During the process of drawing the icons in Adobe Illustrator with the Pen Tool, I made several adjustments to refine the details of the icons, such as line thickness and shapes, to make them look clearly. Since it was my first time making icons in Illustrator, I faced challenges with drawing curves and small details with the Pen Tool. However, through repeated practice, using direct selection tool and adjusting line thickness, I was able to resolve the problems and improve my skills. I'm satisfied with the results, as the icons turned out clean and intuitive.**
 
 <br>
 <br>
