@@ -1,6 +1,6 @@
 ---
 title: Colour variations for Icons
-published_at: 2024-08-20
+published_at: 2024-08-27
 snippet: one monochromatic, one analogous, one complementary (or split complementary)
 disable_html_sanitization: true
 allow_math: true
