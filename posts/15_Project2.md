@@ -15,11 +15,12 @@ allow_math: true
 
 <iframe src="https://julienoh000.github.io/myicons/" width="100%" height="700px" frameborder="0"></iframe>
 
+<p>
+    Hover over this screen to see my responsive icons, or 
+    <a href="https://julienoh000.github.io/myicons/">click on this link</a> to view them. 
+    To turn on the sound, just click anywhere.
+</p>
 
-** **
-
-<br>
-<br>
 
 <br>
 <br>
