@@ -13,7 +13,7 @@ allow_math: true
 # Final website
 
 
-<iframe src="https://julienoh000.github.io/myicons/" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="https://julienoh000.github.io/myicons/" width="100%" height="700px" frameborder="0"></iframe>
 
 
 ** **
