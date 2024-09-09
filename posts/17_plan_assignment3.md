@@ -20,7 +20,7 @@ allow_math: true
 
 <br><br>
 
-# list of the assets (3D models, sounds, textures, etc) 
+# List of the assets (3D models, sounds, textures, etc) 
 
 <h3>3D Models</h3>
 Room Interior: Bed, desk, chair, bookshelf, lamp, etc. <br>
