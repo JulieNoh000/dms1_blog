@@ -23,19 +23,21 @@ allow_math: true
 # list of the assets (3D models, sounds, textures, etc) 
 
 <h3>3D Models</h3>
-Room Interior: Bed, desk, chair, bookshelf, lamp, etc.
-Street Elements: Street lamps, benches, traffic signs, buildings, outdoor tables, pathways, etc.
+Room Interior: Bed, desk, chair, bookshelf, lamp, etc. <br>
+Street Elements: Street lamps, benches, traffic signs, buildings, outdoor tables, pathways, etc. <br>
 Nature: Trees (various types), grass, rocks, etc.
 
-<br><br>
+<br>
 
 <h3>Sounds</h3> Clock ticking, distant traffic, birds, Car honks, footsteps, public announcements, leaves, water, etc.
 
-<br><br>
+<br>
 
 <h3>Textures</h3>
 Wood floor, carpet, Concrete, tile, Grass, Brick walls, Stone walls, wooden walls, etc.
 
+<br>
+<br>
 <br>
 <br>
 <br>
