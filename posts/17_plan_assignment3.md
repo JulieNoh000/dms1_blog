@@ -22,7 +22,7 @@ allow_math: true
 
 # list of the assets (3D models, sounds, textures, etc) 
 
-<h2>3D Models</h2>
+<p6>3D Models</p6>
 **Room Interior** <br>
 Bed, desk, chair, bookshelf, lamp, etc.
 **Street Elements** <br>
