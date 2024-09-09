@@ -12,8 +12,8 @@ allow_math: true
 
 # Unity
 
-<img src="u.jpg" width="800" height="500">
-<img src="u2.jpg" width="800" height="500">
+<img src="u.png" width="800" height="500">
+<img src="u2.png" width="800" height="500">
 
 
 **In today's class, I installed Unity and the Unity Editor, created a new project in the 3D format, and set up folders for materials and textures. I downloaded and imported planet and moon textures from the provided website. I applied textures to sphere and cube objects and added moon material to the background. I felt good when these initial attempts were successful, but I still don't fully understand how material and texture folders work, so I need to explore and experiment with those more.**
