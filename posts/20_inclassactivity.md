@@ -24,7 +24,7 @@ allow_math: true
 
 <br>
 
-**In today's class, I recreated the setup shown in the lecture slides using Unity. After I made the setup, I played around with some textures and skyboxes. I found it really interesting that the simple setup could look cool just by adding textures and a skybox.
+**In today's class, I recreated the setup shown in the lecture slides using Unity. After I made the setup, I played around with some textures and skyboxes. I found it really interesting that the simple setup could look cool just by adding textures and a skybox.**
 
 <br>
 <br>
