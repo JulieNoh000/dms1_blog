@@ -14,7 +14,7 @@ allow_math: true
 
 <img src="auspro1.png" width="800" height="500">
 <img src="auspro2.png" width="800" height="500">
-<img src="auspro3.png" width="800" height="500">
+
 
 
 **So far, I created the Australia zone. Unfortunately, I lost all screenshot images of the previous steps, so I'll just describe it here. <br> First, I painted the terrain with a sand texture and used terrain tools and ocean texture to create the beach. When I placed four beach umbrellas in the same color, it felt too boring. So I changed two of them to different designs to make them visually more interesting. I originally planned to line up the houses and add trees on one side. But I decided to put trees on both sides of the houses because I liked that it felted more balanced. To show that this is Australia, I included some kangaroos and a kangaroo sign. I remembered seeing rocks and branches when I visited the beach in Australia, so I added those elements as well.**
