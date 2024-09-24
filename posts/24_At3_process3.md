@@ -17,7 +17,7 @@ allow_math: true
 <img src="rp3.png" width="800" height="500">
 
 
-**My room has a lot of meaning, so I made the room and furniture slightly larger in scale and placed many objects that represent my memories. For example, some items are related to memories of having delicious snacks while watching TV with my family, playing table hockey with friends, learning to play the piano, and studying in my room.<br> For the walls facing the other zones, I chose color that goes well with the sky, and for the other walls, I selected texture with a warm atmosphere. I also added light to three lamp objects to make it more realistic.**
+**My room has a lot of meaning, so I made the room and furniture slightly larger in scale and placed many objects that represent my memories. For example, some items are related to memories of having delicious snacks while watching TV with my family, taking pictures of my parents with a camera, playing table hockey with friends, learning to play the piano, and studying in my room.<br> For the walls facing the other zones, I chose color that goes well with the sky, and for the other walls, I selected texture with a warm atmosphere. I also added light to three lamp objects to make it more realistic.**
 
 <br>
 <br>
