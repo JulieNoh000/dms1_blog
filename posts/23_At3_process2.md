@@ -1,6 +1,6 @@
 ---
 title: Assignment 3 Process (CAN zone) 
-published_at: 2024-09-20
+published_at: 2024-09-22
 snippet: Map layout rivision and completion of the Canada zone 
 disable_html_sanitization: true
 allow_math: true
