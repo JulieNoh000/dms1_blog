@@ -1,5 +1,5 @@
 ---
-title: Assignment 3 Process
+title: Assignment 3 Process (AUS zone)
 published_at: 2024-09-17
 snippet: Replace my primitives with the final assets.
 disable_html_sanitization: true
