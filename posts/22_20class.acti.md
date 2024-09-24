@@ -15,8 +15,6 @@ allow_math: true
 <img src="20c.png" width="800" height="500">
 
 
-
-
 **Today, I learned how to add sound in Unity. I was curious if sounds are added as something like invisible objects or just like background music in video editing. The idea of putting sound in objects was really interesting. The sound gets louder as the character approaches closer to the object, which makes sense in a 3D environment. It was my first time learning about 'Doppler', and a classmate’s explanation helped me understand it easily. This tool will be helpful when I add music for different places in my project.**
 
 <br>
