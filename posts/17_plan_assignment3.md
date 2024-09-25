@@ -29,7 +29,7 @@ Nature: trees (various types), grass, rocks, etc.
 
 <br>
 
-<h3>Sounds</h3> clock ticking, distant traffic, birds, car honks, footsteps, public announcements, leaves, water, etc.
+<h3>Sounds</h3> calm music, TV sound, ocean, cars, birds, water, wind, etc.
 
 <br>
 
