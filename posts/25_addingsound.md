@@ -12,6 +12,12 @@ allow_math: true
 
 # Results
 
+ <style>
+        h6 {
+            color: black;
+        }
+    </style>
+
 <h6>Piano music</h6>
  <audio controls>
         <source src="sanc.wav" type="audio/wav">
