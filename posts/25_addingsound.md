@@ -14,12 +14,13 @@ allow_math: true
 
 <h4 style="display: inline;">Piano music</h4>
 <h6 style="display: inline;">by Neko Legends from the Unity Asset Store</h6>
-<h4>Piano music</h4> <h6>by Neko Legends from the Unity Asset Store</h6>
+
  <audio controls>
         <source src="sanc.wav" type="audio/wav">
     </audio>
 <br>
-<h4>TV sound </h4>
+<h4 style="display: inline;">Piano music</h4>
+<h6 style="display: inline;">by Neko Legends from the Unity Asset Store</h6>
  <audio controls>
         <source src="tv.wav" type="audio/wav">
     </audio>
