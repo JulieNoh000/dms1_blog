@@ -13,37 +13,32 @@ allow_math: true
 # Results
 
 
-<h6>Piano music</h6>
+<h4>Piano music</h4>
  <audio controls>
         <source src="sanc.wav" type="audio/wav">
     </audio>
 <br>
-<h6>TV sound</h6>
+<h4>TV sound</h4>
  <audio controls>
         <source src="tv.wav" type="audio/wav">
     </audio>
 <br>
- <h6>Ocean sound</h6>
+ <h4>Ocean sound</h4>
  <audio controls>
         <source src="ocean.wav" type="audio/wav">
     </audio>
 <br>
-<h6>Traffic soound</h6>
+<h4>Traffic soound</h4>
  <audio controls>
         <source src="traff.wav" type="audio/wav">
     </audio>
 <br>
-<h6>Water sound</h6>
+<h4>Water sound</h4>
  <audio controls>
         <source src="water.wav" type="audio/wav">
     </audio>
 <br>
 
-  <style>
-        h6 {
-            color: black; 
-        }
-    </style>
 
 **.**
 
