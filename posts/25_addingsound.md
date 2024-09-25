@@ -16,27 +16,27 @@ allow_math: true
  <audio controls>
         <source src="sanc.wav" type="audio/wav">
     </audio>
-
+<br>
 <h6>TV sound</h6>
  <audio controls>
         <source src="tv.wav" type="audio/wav">
     </audio>
-
-    <h6>Ocean sound</h6>
+<br>
+ <h6>Ocean sound</h6>
  <audio controls>
         <source src="ocean.wav" type="audio/wav">
     </audio>
-
+<br>
 <h6>Traffic soound</h6>
  <audio controls>
         <source src="traff.wav" type="audio/wav">
     </audio>
-
+<br>
 <h6>Water sound</h6>
  <audio controls>
         <source src="water.wav" type="audio/wav">
     </audio>
-
+<br>
 
 
 **.**
