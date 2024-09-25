@@ -10,7 +10,7 @@ allow_math: true
 <a href="https://julienoh000-dms1-blog-83.deno.dev/" style="text-decoration: none; color: black;"><span style="font-size: 30px;">🔙</span></a>
 
 
-# Results
+# Audio files & Sources
 
 <h4 style="display: inline;">Piano music</h4>
 <h6 style="display: inline;">by Neko Legends from the Unity Asset Store</h6>
@@ -51,8 +51,6 @@ I'm very satisfied with how I selected sounds that match each place and object. 
 
 <br>
 <br>
-
-# Sources
 
 <br>
 <br>
