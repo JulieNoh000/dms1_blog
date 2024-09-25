@@ -13,7 +13,7 @@ allow_math: true
 # Results
 
 
-<h4>Piano music</h4><h5>by Neko Legends from the Unity Asset Store.</h5>
+<h4>Piano music</h4> <h6>by Neko Legends from the Unity Asset Store</h6>
  <audio controls>
         <source src="sanc.wav" type="audio/wav">
     </audio>
