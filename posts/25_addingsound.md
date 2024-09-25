@@ -49,8 +49,6 @@ allow_math: true
 
 I'm very satisfied with how I selected sounds that match each place and object. Adding these sounds makes me feel the atmosphere of each area even more authentic.**
 
-<br>
-<br>
 
 <br>
 <br>
