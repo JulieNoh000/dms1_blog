@@ -12,11 +12,6 @@ allow_math: true
 
 # Results
 
- <style>
-        h6 {
-            color: black;
-        }
-    </style>
 
 <h6>Piano music</h6>
  <audio controls>
@@ -44,6 +39,11 @@ allow_math: true
     </audio>
 <br>
 
+  <style>
+        h6 {
+            color: black; 
+        }
+    </style>
 
 **.**
 
