@@ -19,23 +19,26 @@ allow_math: true
         <source src="sanc.wav" type="audio/wav">
     </audio>
 <br>
-<h4 style="display: inline;">Piano music</h4>
-<h6 style="display: inline;">by Neko Legends from the Unity Asset Store</h6>
+<h4 style="display: inline;">Tv sound</h4>
+<h6 style="display: inline;">by Gregor Quendel from the Unity Asset Store</h6>
  <audio controls>
         <source src="tv.wav" type="audio/wav">
     </audio>
 <br>
- <h4>Ocean sound </h4>
+<h4 style="display: inline;">Ocean</h4>
+<h6 style="display: inline;">by lumino from the Unity Asset Store</h6>
  <audio controls>
         <source src="ocean.wav" type="audio/wav">
     </audio>
 <br>
-<h4>Traffic soound </h4>
+<h4 style="display: inline;">Traffic</h4>
+<h6 style="display: inline;">by Gregor Quendel from the Unity Asset Store</h6>
  <audio controls>
         <source src="traff.wav" type="audio/wav">
     </audio>
 <br>
-<h4>Water sound </h4>
+<h4 style="display: inline;">Water fountain</h4>
+<h6 style="display: inline;">by Gregor Quendel from the Unity Asset Store</h6>
  <audio controls>
         <source src="water.wav" type="audio/wav">
     </audio>
