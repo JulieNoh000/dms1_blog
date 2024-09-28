@@ -1,5 +1,5 @@
 ---
-title: Implement sound assets into my project
+title: Implement Sound Assets 
 published_at: 2024-09-24
 snippet: Adding sound effects, background musics
 disable_html_sanitization: true
