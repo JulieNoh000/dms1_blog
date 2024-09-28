@@ -19,7 +19,7 @@ allow_math: true
 
 <br>
 
-**The responses to the Likert scale questions were all on the positive side. One of the answers to the question about the best part of the map was "I liked the strong sense of recognition for each part of the map — especially the kangaroos and beach." For the question asking about areas for improvement, responses were "Maybe some sounds need more volume / easier to hear," and "The mouse sensitivity seems too high, and the player's speed is too fast."<br>According to the responses, I increased the volume of all sound files to 1, reduced the player speed to 7, and lowered the mouse sensitivity to 5. After making those changes, I played again and felt that the screen was less dizzying. As a result, I was able to enjoy the map much more, which made me very satisfied.**
+**The responses to the Likert scale questions were all on the positive side. One of the answers to the question about the best part of the map was "I liked the strong sense of recognition for each part of the map — especially the kangaroos and beach." For the question asking about areas for improvement, responses were "Maybe some sounds need more volume / easier to hear," and "The mouse sensitivity seems too high, and the player's speed is too fast."<br><br>According to the responses, I increased the volume of all sound files to 1, reduced the player speed to 7, and lowered the mouse sensitivity to 5. After making those changes, I played again and felt that the screen was less dizzying. As a result, I was able to enjoy the map much more, which made me very satisfied.**
 
 
 <br>
