@@ -14,7 +14,7 @@ allow_math: true
 
 <div style="padding:55.96% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1013742889?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Playtesting screen recording"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSecq0XX_GXTV-miH3_p1e1lozc8D2FkxTdfIxp19HKWrEKx7w/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSecq0XX_GXTV-miH3_p1e1lozc8D2FkxTdfIxp19HKWrEKx7w/viewform?embedded=true" width="640" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 <br>
