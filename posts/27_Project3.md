@@ -16,7 +16,7 @@ allow_math: true
 
 <br>
 
-****
+**This is a 3D environment that visually represents the most meaningful and significant change in my life.**
 
 
 <br>
