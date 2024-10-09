@@ -72,7 +72,7 @@ I sketched nine designs for each icon, which means 81 sketches overall. I starte
 The first color I wanted to use was green, as I believed it was an appropriate color to symbolize environmental protection. Later, while experimenting with color variations, I chose the analogous combination of green, yellow, and blue. This combination makes my icons visually appealing. Additionally, I felt that this color combination was suitable for symbolically representing climate and nature.
 **How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?<br><br>
 
-**• How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?** <br>
+**How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?** <br>
 I selected sounds that could make the interaction process with the icons more engaging. I avoided overly long or complex sounds that could ruin the simplicity of the icons. Instead of sounds that remind users of something specific, I wanted short sounds that feel like pressing a button.
 <br><br>
 
