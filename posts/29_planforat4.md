@@ -10,9 +10,13 @@ allow_math: true
 <a href="https://julienoh000-dms1-blog-83.deno.dev/" style="text-decoration: none; color: black;"><span style="font-size: 30px;">🔙</span></a>
 
 
-# Self Reflection Questions
+# Rough sketch
 
-
+<img src="rs2.jpg" width="400" height="550">
+<img src="rs3.jpg" width="400" height="550">
+<img src="rs4.jpg" width="400" height="550">
+<img src="rs5.jpg" width="400" height="550">
+<img src="rs6.jpg" width="400" height="550">
 
 <br>
 
