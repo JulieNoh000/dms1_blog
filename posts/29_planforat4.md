@@ -29,6 +29,8 @@ allow_math: true
 
 <img src="copa.png" width="350" height="150">
 
+<br>
+
 **This is the color palette that I will use for this project. Since I wanted to create a calm feeling, I avoided colors that are too bright or intense. I also thought about whether to use a combination of different color tones or similar ones. I decided to go with similar tones, as using different tones would feel like giving too much of a free or playful vibe. Additionally, I believe that using just four colors, rather than using too many, will help create a sense of unity and make the website less confusing.**
 
 <br>
