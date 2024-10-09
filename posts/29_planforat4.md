@@ -21,7 +21,7 @@ allow_math: true
 <br>
 
 
-**This is a 3D environment that visually represents the most meaningful and significant change in my life.**
+**I created a rough sketch for my website. At the top of my website will be my name and a designer bio. Below that, there will be navigation buttons that lead to each project page. Each project page will include the project title, a video or image of the work, an introduction and reflection statement, and images of processes. At the very bottom, there will be contact information or any other additional stuff. Although the gap betwwen the sections in the sketch looks quite close to each other, I am going to make more space for scrolling between them in the actual design.**
 
 
 <br>
