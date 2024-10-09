@@ -23,6 +23,13 @@ allow_math: true
 
 **I created a rough sketch for my website. At the top of my website will be my name and a designer bio. Below that, there will be navigation buttons that lead to each project page. Each project page will include the project title, a video or image of the work, an introduction and reflection statement, and images of processes. At the very bottom, there will be contact information or any other additional stuff. Although the gap betwwen the sections in the sketch looks quite close to each other, I am going to make more space for scrolling between them in the actual design.**
 
+<br>
+
+# Color pallette
+
+<img src="copa.png" width="350" height="150">
+
+**This is the color palette that I will use for this project. Since I wanted to create a calm feeling, I avoided colors that are too bright or intense. I also thought about whether to use a combination of different color tones or similar ones. I decided to go with similar tones, as using different tones would feel like giving too much of a free or playful vibe. Additionally, I believe that using just four colors, rather than using too many, will help create a sense of unity and make the website less confusing.**
 
 <br>
 <br>
