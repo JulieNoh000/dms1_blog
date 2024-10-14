@@ -1,7 +1,7 @@
 ---
 title: Wireframe for my website
 published_at: 2024-10-11
-snippet: Generating wireframes for my planned webpage
+snippet: Generate wireframes for my planned webpage
 disable_html_sanitization: true
 allow_math: true
 ---
