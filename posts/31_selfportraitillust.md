@@ -17,7 +17,7 @@ allow_math: true
 
 <br>
 
-**I created a wireframe with wireframe.cc based on my sketch from last week.**
+**I believe first impressions are important in everything. I didn’t want the first impression of my website to feel too boring, so I decided to create an impressive illustration that represents me. Using Adobe Illustrator, I made a simple yet distinctive illustration. I’m quite satisfied with how it turned out, as it conveys the mood I wanted and fits well with my website’s overall theme.**
 
 <br>
 <br>
