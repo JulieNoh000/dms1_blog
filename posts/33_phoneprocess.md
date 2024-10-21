@@ -18,7 +18,7 @@ allow_math: true
 
 <br>
 
-**For the mobile version, I also used the blur effect to add some decoration. In the desktop version, I used the while hovering function for the navigation buttons, but I realized this might not work well on mobile. So, I created a 3D-looking button design with an animation that looks like being pressed. I also made the process grid scroll vertically instead of horizontally, adapting it to the mobile layout. The 'Go Back' button was designed with a shadow effect to give it a more dynamic look. I changed the bio section to be clickable, unlike in the desktop version. Designing for mobile required more considerations than for the desktop version. Through this process, I feel like I’ve improved my ability to create websites for different sizes, which was really meaningful to me.**
+**For the mobile version, I also used the blur effect to add some decoration. In the desktop version, I used the While Hovering function for the bio page, but I realized this might not work well on mobile. So I used 'On Click' for that. I felt like using the same navigation button design for mobile version would be unattractive. For that reason, I created a 3D-looking button design with an animation that looks like being pressed. I also made the process grid scrolled vertically instead of horizontally, adapting it to the mobile layout. Besides, the 'Go Back' button was designed with a shadow effect to give it a more dynamic look. <br>Designing for mobile required more considerations than the desktop version. Through this process, I was able to improve my ability to create websites for different sizes, which is really important.**
 
 <br>
 <br>
