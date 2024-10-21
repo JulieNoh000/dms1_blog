@@ -12,8 +12,8 @@ allow_math: true
 
 # Process
 
-<img src="dtpr1.png" width="588" height="1196">
-<img src="dtpr2.png" width="680" height="898">
+<img src="dtpr1.png" width="294" height="598">
+<img src="dtpr2.png" width="340" height="449">
 
 <br>
 
