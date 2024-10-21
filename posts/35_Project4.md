@@ -21,7 +21,7 @@ allow_math: true
 
 <br> <br>
 
-**These are the final versions of my website.<br><br>This project was a valuable opportunity for me, as it was the first time I created both a website and its mobile version. Since UX/UI is the field I’m most interested in, this assignment helped me learn a lot and grow my passion. It also motivated me to explore more design references and practice to enhance my skills in Figma.**
+**These are the final versions of my website.<br><br>This project was a valuable opportunity for me, as it was the first time I created both a website and its mobile version. Since UX/UI design is the field I’m most interested in, this assignment helped me learn a lot and grow my passion. It also motivated me to explore more design references and practice to enhance my skills in Figma.**
 
 <br>
 <br>
