@@ -10,15 +10,16 @@ allow_math: true
 <a href="https://julienoh000-dms1-blog-83.deno.dev/" style="text-decoration: none; color: black;"><span style="font-size: 30px;">🔙</span></a>
 
 
-# Process
+# Solution
 
-<img src="phpr1.png" width="854" height="698">
-<img src="phpr2.png" width="228" height="453">
-<img src="phpr3.png" width="416" height="639">
+<video controls>
+  <source src="issue.mp4" type="video/mp4">
+
+</video>
 
 <br>
 
-****
+**When I was trying to upload the playtesting and final video for Project 3 to Vimeo, I was running out of storage space and had to delete the videos of Project 1 without backing them up. I thought I had the original footage and the final video on my drive, but I realized that I didn't while looking for the materials from Project 1 to put on my website.  All I had were a few screenshots taken during the filming process. Through this experience, I learned that it is very important to properly back up all the processes and final outcomes of every project.**
 
 <br>
 <br>
