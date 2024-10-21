@@ -13,7 +13,7 @@ allow_math: true
 # Process
 
 <img src="phpr1.png" width="854" height="698">
-<img src="phpr2.png" width="456" height="907">
+<img src="phpr2.png" width="228" height="453">
 
 <br>
 
